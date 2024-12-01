@@ -55,8 +55,12 @@ Follow the steps below to set up the application locally:
 
 - In another terminal window, navigate to the root directory and then to the backend folder:
 
+     ```bash
      cd ..
+     ```
+     ```bash 
      cd backend
+     ```
      
 
 - Install the backend dependencies:
