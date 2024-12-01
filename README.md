@@ -7,6 +7,8 @@
 ### 1. **Vehicle Owner Dashboard**
 
 - As a **vehicle owner**, you are directed to the **Owner's Dashboard**, where you can **transfer control** of your vehicle to another user.
+![Owner Dashboard](images/image-1.png)
+
 - A **Transfer** button is available on the dashboard. Upon clicking it, you will be prompted to select from your acquaintances (which can be added via the settings page).
 
 #### Transfer Request UI:
@@ -15,6 +17,8 @@
 ### 2. **Driver Dashboard**
 
 - As a **driver**, there is no transfer control button. Instead, you will receive transfer requests from vehicle owners if they wish to transfer control of their vehicle to you.
+![Driver Dashboard](images/image.png)
+
 - Transfer requests are implemented using **Socket.IO**, allowing real-time communication between the owner and driver.
 
 #### Driver Transfer Request UI:
