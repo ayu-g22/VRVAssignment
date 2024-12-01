@@ -53,7 +53,7 @@ Follow the steps below to set up the application locally:
 
 ### 2. **Backend Setup**
 
-In another terminal window, navigate to the root directory and then to the backend folder:
+- In another terminal window, navigate to the root directory and then to the backend folder:
 
      cd ..
      cd backend
