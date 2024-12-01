@@ -17,6 +17,7 @@
 ### 2. **Driver Dashboard**
 
 - As a **driver**, there is no transfer control button. Instead, you will receive transfer requests from vehicle owners if they wish to transfer control of their vehicle to you.
+
 ![Driver Dashboard](images/image.png)
 
 - Transfer requests are implemented using **Socket.IO**, allowing real-time communication between the owner and driver.
