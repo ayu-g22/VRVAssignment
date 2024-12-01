@@ -57,8 +57,11 @@ In another terminal window, navigate to the root directory and then to the backe
 
      ```bash
      cd ..
+     ```
+     ```bash 
      cd backend
      ```
+     
 
 - Install the backend dependencies:
 
